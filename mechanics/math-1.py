@@ -17,5 +17,3 @@ if __name__ == '__main__':
         if d == 0:
             flag = False
     print("程序退出")
-2 1 4 13
-2 7 22 11
